@@ -227,7 +227,7 @@ Uno de los puntos más importantes ha sido comprender que, tras normalizar géne
 
 Añade aquí una captura del dashboard cuando la subas al repositorio:
 
-```md
+md
 ![Dashboard Netflix](images/dashboard.png)
 ```
 
